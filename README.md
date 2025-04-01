@@ -4,7 +4,9 @@
 
 This custom OCR pipeline is capable of handling multilingual scientific materials, including text, tables, figures, charts, and math formulas. The system is designed for high accuracy processing of complex educational content such as entrance exam materials.
 
-– Key Features**Multilingual Support**: Japanese, Korean, English (customizable)
+– Key Features
+
+-**Multilingual Support**: Japanese, Korean, English (customizable)
 
 – **ML Training Optimization**: Adds semantic summaries and educational context to each image/table
     
