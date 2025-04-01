@@ -81,6 +81,7 @@ This image is used in questions such as:
 3. Explain the significance of mitosis
 4. Discuss how errors in mitosis lead to genetic diseases
 
+[Image End]
 [Table Start]
 | 前期 | 中期 | 後期 |
 |------|------|------|
@@ -92,7 +93,6 @@ This image is used in questions such as:
 | C    | D    | A    |
 | D    | A    | B    |
 | D    | C    | A    |
-[Table End]
 
 Summary:
 Each option (①–⑧) corresponds to a specific mapping of A, B, C, D to prophase, metaphase, and anaphase.
@@ -103,7 +103,7 @@ Understanding time-based transition in mitosis and data organization in tables. 
 Related topics:
 Data analysis, table interpretation, biological data classification
 
-[Image End]
+[Table End]
 
 
 ## Technical Implementation
