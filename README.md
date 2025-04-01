@@ -121,3 +121,4 @@ For inquiries, customization requests, or purchase information, please contact:
 **Email**: [ses425500000@gmail.com](mailto:ses425500000@gmail.com)
 ⸻
 _Note: The English translations in the examples were manually reformatted for clarity and consistency. Please treat them as reference only, as structure and layout may differ slightly from the original._
+_Keywords: OCR, exam OCR, table recognition, diagram OCR, AI education tools, OpenAI, Gemini Pro Vision, multilingual OCR, DocLayout-YOLO, Machine Learning, educational ML dataset, research OCR, paper OCR, document AI
