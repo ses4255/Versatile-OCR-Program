@@ -103,14 +103,23 @@ Data analysis, table interpretation, biological data classification
 ## Technical Implementation
 
 – Table Processing OptimizationTable regions are detected using DocLayout-YOLO
+
 – Google Vision OCR is used for table processing instead of MathPix for better accuracy with Japanese text
+
 – Table structures are preserved in structured JSON format (maintaining row/column structure)
+
 – Y-coordinate information is maintained to ensure contextual continuity
+
 – Original layout information is preserved alongside structured data for ML training
+
 – Image and Special Region ProcessingImage regions are processed using Google Vision API's image analysis features (imageProperties, labelDetection, textDetection)
+
 – Image descriptions are generated using Google Cloud Vision API
+
 – Graphs/charts are processed using Google Cloud Vision API's document analysis features with data point extraction
+
 – Special region processing results are stored in structured JSON format for ML training
+
 – Original coordinate information and region type metadata are added to maintain contextual continuity
 
 ## Purpose and Contact
