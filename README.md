@@ -7,7 +7,8 @@ This custom OCR pipeline is capable of handling multilingual scientific material
 – **ML Training Optimization**: Adds semantic summaries and educational context to each image/table
     – **High Accuracy**: Over 90~95% accuracy on real-world datasets like EJU Biology and University of Tokyo Math
 – **Comprehensive Processing**: Handles complex layouts including text, tables, figures, charts, and mathematical formulas
-– Tools UsedDocLayout-YOLO
+– Tools Used 
+- DocLayout-YOLO
 – Google Vision API
 – Gemini Pro Vision
 – MathPix OCR
