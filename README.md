@@ -113,6 +113,17 @@ Data analysis, table interpretation, biological data classification
 [Table End]
 
 
+## Usage Workflow
+1.	Step 1 – Initial OCR Extraction
+Run ocr_stage1.py to extract raw elements (text, tables, figures, etc.) from input PDFs.
+This step performs layout detection and stores intermediate results (e.g., coordinates, cropped images, raw content).
+	
+2.	Step 2 – Semantic Interpretation & Final Output
+Run ocr_stage2.py to process the intermediate data and convert it into structured, human-readable output.
+This includes generating natural-language explanations, summaries, and organizing content into AI-ready formats (JSON/Markdown).
+
+
+
 ## Technical Implementation
 
 – Table Processing OptimizationTable regions are detected using DocLayout-YOLO
