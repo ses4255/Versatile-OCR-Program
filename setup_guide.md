@@ -10,9 +10,7 @@ If you are using the v2.0_initial version, please enter the following bash code 
 ```bash
 sudo usermod -aG docker jupyter
   sudo reboot
-  
-
-
+```
 
 ## 1. Environment File Setup
 
