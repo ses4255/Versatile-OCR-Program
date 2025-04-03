@@ -130,7 +130,7 @@ Place your service account JSON files in this directory:
 After completing all the setup steps, you can run the OCR system using the Docker container:
 
 ```bash
-python docker_runner.py
+python ocr_stage1.py
 ```
 
 This will:
