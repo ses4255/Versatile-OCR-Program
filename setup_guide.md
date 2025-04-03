@@ -6,10 +6,13 @@ By default,the files are stored in the user’s directory (/home/jupyter), but y
 
 **Important update**
 If you are using the v2.0_initial version, please enter the following bash code in your terminal.
+
 ```bash
 sudo usermod -aG docker jupyter
   sudo reboot
   
+
+
 
 ## 1. Environment File Setup
 
