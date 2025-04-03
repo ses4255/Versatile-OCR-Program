@@ -1,23 +1,24 @@
-# OCR System Optimized for Machine Learning: Diagrams, Tables, Math & Multilingual Text
+# OCR System Optimized for Machine Learning: Figures, Diagrams, Tables, Math & Multilingual Text
 
 ## Overview
 
 This OCR system is specifically designed to extract structured data from complex educational materials—such as exam papers—in a format optimized for machine learning (ML) training.
 It supports multilingual text, mathematical formulas, tables, diagrams, and charts, making it ideal for creating high-quality training datasets.
 
-**Key Features**
+## Key Features
 
-– Optimized for ML Training: Adds semantic annotations and context to extracted elements (e.g., tables, figures) to improve learning performance
+– Optimized for ML Training: Extracted elements such as diagrams, tables, and figures are semantically annotated with contextual explanations.
+This includes automatic generation of natural language descriptions for visual content (e.g., “This figure shows the process of mitosis in four stages”) to enhance downstream model training.
 
-– Multilingual Support: Works with Japanese, Korean, English and can be customized for additional languages
+– Multilingual Support: Works with Japanese, Korean, and English, and can be easily customized for additional languages.
 
-– Structured Output: Generates AI-ready outputs in JSON or Markdown with natural language descriptions
+– Structured Output: Generates AI-ready outputs in JSON or Markdown, including human-readable descriptions of mathematical expressions, table summaries, and figure captions.
 
-– High Accuracy: Achieves over 90–95% accuracy on real-world academic datasets like EJU Biology and UTokyo Math
+– High Accuracy: Achieves over 90–95% accuracy on real-world academic datasets such as EJU Biology and UTokyo Math.
 
-– Complex Layout Support: Handles exam-style PDFs with dense scientific content, figures, and formula-heavy text
+– Complex Layout Support: Accurately processes exam-style PDFs with dense scientific content, formula-heavy paragraphs, and rich visual elements.
 
-– Built With: DocLayout-YOLO, Google Vision API, Gemini Pro Vision, MathPix OCR, OpenAI API, OpenCV, etc.
+– Built With: DocLayout-YOLO, Google Vision API, Gemini Pro Vision, MathPix OCR, OpenAI API, OpenCV, and more.
 
 # Sample Outputs
 
