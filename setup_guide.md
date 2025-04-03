@@ -4,6 +4,13 @@ This guide provides step-by-step instructions for setting up the EJU OCR system,
 
 By default,the files are stored in the user’s directory (/home/jupyter), but you should modify the path according to your own environment.
 
+**Important update**
+If you are using the v2.0_initial version, please enter the following bash code in your terminal.
+```bash
+sudo usermod -aG docker jupyter
+  sudo reboot
+  
+
 ## 1. Environment File Setup
 
 Create a `.env` file in your project directory with the following content. Replace the placeholder values with your actual API keys and credentials:
