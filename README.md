@@ -157,9 +157,10 @@ If you’re interested in custom AI tools or would like to collaborate on an AI-
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).  
-You are free to use and modify it for non-commercial purposes.  
-See the [LICENSE](./LICENSE) file for more details.
+This project is licensed under the **MIT License**.  
+You are free to use, modify, distribute, and sublicense this software for any purpose, including commercial use.
+
+See the [LICENSE](./LICENSE) file for full terms.
 ⸻
 _Note: The English translations in the examples were manually reformatted for clarity and consistency. Please treat them as reference only, as structure and layout may differ slightly from the original._
 _Keywords: OCR, exam OCR, table recognition, diagram OCR, AI education tools, OpenAI, Gemini Pro Vision, multilingual OCR, DocLayout-YOLO, Machine Learning, educational ML dataset, research OCR, paper OCR, document AI
