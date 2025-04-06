@@ -157,8 +157,13 @@ If you’re interested in custom AI tools or would like to collaborate on an AI-
 
 ## License
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, distribute, and sublicense this software for any purpose, including commercial use.
+This project is now licensed under the GNU Affero General Public License v3.0 (AGPL-3.0),  
+in compliance with the original license of the DocLayout-YOLO model used in this repository.
+
+Please note that any derivative or deployed version (including as a web service)  
+must also publicly share its complete source code.
+
+More details: https://www.gnu.org/licenses/agpl-3.0.html
 
 See the [LICENSE](./LICENSE) file for full terms.
 ⸻
