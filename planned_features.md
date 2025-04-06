@@ -9,6 +9,7 @@ This update is scheduled for an upcoming version.
 
 
 **Full local pipeline support (no API key needed)**
+
 Currently, some components (e.g. OpenAI, MathPix) rely on external APIs. The final goal is to replace all of them with local alternatives. Planned replacements include:
 	
   •	Tesseract or TrOCR for general OCR
@@ -21,6 +22,7 @@ Currently, some components (e.g. OpenAI, MathPix) rely on external APIs. The fin
 
 
 **Prompt injection prevention & hallucination mitigation**
+
 To reduce risks from prompt injection and hallucinations common in LLMs, the system will adopt structured improvements:
 	
   •	Input/output validation with JSON Schema or Pydantic
