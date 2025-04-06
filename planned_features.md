@@ -6,3 +6,31 @@ Image embedding using OpenAI CLIP will be added alongside the current natural la
 Since the project integrates multiple APIs, all new components will be thoroughly tested to ensure stability before release.
 
 This update is scheduled for an upcoming version.
+
+
+**Full local pipeline support (no API key needed)**
+Currently, some components (e.g. OpenAI, MathPix) rely on external APIs. The final goal is to replace all of them with local alternatives. Planned replacements include:
+	
+  •	Tesseract or TrOCR for general OCR
+	
+  •	Pix2Struct, Donut, or DocTR for document layout analysis
+	
+  •	CLIP or similar models for image-text semantic alignment
+	
+  •	LLaMA, Gemma, Mistral, Phi, etc. for reasoning and QA
+
+
+**Prompt injection prevention & hallucination mitigation**
+To reduce risks from prompt injection and hallucinations common in LLMs, the system will adopt structured improvements:
+	
+  •	Input/output validation with JSON Schema or Pydantic
+
+  •	Isolated inference per module and context separation
+
+  •	Fact-checking pass to detect and filter hallucinated output
+
+  •	Structural prompt design separating instruction from data
+
+  •	Offline-friendly deployment
+
+A fully self-contained version with all models and dependencies bundled will be released, allowing secure use in air-gapped or sensitive environments.
