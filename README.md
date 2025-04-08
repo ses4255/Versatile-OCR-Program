@@ -1,4 +1,20 @@
 # OCR System Optimized for Machine Learning: Figures, Diagrams, Tables, Math & Multilingual Text
+---
+
+### 🚀 **COMING SOON: Next-Level AI Pipeline Integration**
+
+**This OCR project is just the beginning.**  
+In less than **1 month**, a powerful new system will be released:
+
+> **A customizable AI pipeline with memory — tailored to *your* field.**
+
+Whether you're a **student**, **researcher**, or **developer**,  
+you’ll be able to build your own smart, memory-enhanced AI —  
+without needing deep AI knowledge.
+
+**Stay tuned. This changes everything.**
+
+---
 
 ## Overview
 
