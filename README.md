@@ -14,6 +14,10 @@ without needing deep AI knowledge.
 
 **Stay tuned. This changes everything.**
 
+### UPDATE: Final release expected before June.
+The beta version is nearly complete, but some extra time is needed to ensure a stable and polished release. Thanks for your patience — it’s taking a bit longer than expected.
+
+
 ---
 
 ## Overview
