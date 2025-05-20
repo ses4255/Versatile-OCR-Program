@@ -12,12 +12,21 @@ Whether you're a **student**, **researcher**, or **developer**,
 you’ll be able to build your own smart, memory-enhanced AI —  
 without needing deep AI knowledge.
 
-**Stay tuned. This changes everything.**
+### UPDATE: Release Slightly Delayed
 
-### UPDATE: Final release expected before June.
-The beta version is nearly complete, but some extra time is needed to ensure a stable and polished release. Thanks for your patience — it’s taking a bit longer than expected.
+First of all, thank you so much for your interest in this project.
 
+I had originally planned to release the first version of the AI pipeline before June.  
+But to be honest, I've been juggling a major academic commitment (a critical exam on June 15) and development at the same time — and it's been tougher than I expected.
 
+Rather than rushing out something incomplete, I’ve decided to take a bit more time to ensure the release is genuinely useful, stable, and worth your time.
+
+This whole system — including the multi-modal OCR — actually started as a tool to help with my own studies.  
+I didn't expect it to get this much attention, so thanks.  
+Since I'm the first user, I want to make sure it's something I’d actually want to use before releasing it.
+
+Development will resume after the exam, and the public release will follow once the system is truly ready.  
+Thanks again for your patience — I really appreciate it.
 ---
 
 ## Overview
